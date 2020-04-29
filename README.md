@@ -1,6 +1,8 @@
 # Deployment
 In this activity we will deploy the React Reading List application to Heroku.
 
+https://nunetang-practicereact.herokuapp.com/
+
 ## Instructions
 
 
